@@ -1,6 +1,6 @@
 # 🛍️ Análisis de Ventas de Productos en Línea
 
-Este es mi proyecto N°1 de mi curso de Udemy **"Power BI TOTAL en 14 días - Analista de datos avanzado"**, el cual consiste en explorar visualmente las ventas de distintos productos clasificados por categoría durante el año 2024. A través de segmentadores y gráficos interactivos, el usuario puede identificar tendencias de venta mensuales, productos más vendidos y aquellos que generan mayor ingreso.
+Este es mi proyecto **N°1** de mi curso de Udemy **"Power BI TOTAL en 14 días - Analista de datos avanzado"**, el cual consiste en explorar visualmente las ventas de distintos productos clasificados por categoría durante el año 2024. A través de segmentadores y gráficos interactivos, el usuario puede identificar tendencias de venta mensuales, productos más vendidos y aquellos que generan mayor ingreso.
 
 ---
 
